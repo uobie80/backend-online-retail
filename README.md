@@ -1,7 +1,7 @@
 # Online-Retail
 
 ## Description
-This application demonstrates the functioning backend an online-retail app.  This application leverages node.js express.js, sequelize, and MySQL for it's functionality.
+This application demonstrates the functioning backend of an online-retail app.  This application leverages node.js express.js, sequelize, and MySQL for it's functionality.
 
 
 ## User Story
